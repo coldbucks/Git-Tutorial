@@ -1,0 +1,4 @@
+
+Git hub 에 push 할 때 add file이 왜 제목에 표시 되는지 
+
+확인 작업 중 
